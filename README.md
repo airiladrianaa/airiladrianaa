@@ -1,5 +1,3 @@
-![student id](https://github.com/user-attachments/assets/1c8bed2f-d4f7-4f16-9ad3-34aa91653978)
-
 # Hi, I'm Nik Dini Airil Adrianaa binti Nik Zainudin !
 ### Year 1 | Bachelor of Computer Science (Computer Network & Security) with Honours
 I am a first-year Bachelor of Computer Science student at Universiti Teknologi Malaysia (UTM) from Section 05.
