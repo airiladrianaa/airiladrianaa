@@ -56,4 +56,4 @@ I am a first-year Bachelor of Computer Science student at Universiti Teknologi M
 ### **📞 Contact Me**
 * **Email :** airil.adrianaa@gmail.com
 * **LinkedIn:** [(Nik Dini Airil Adrianaa Nik Zainudin)](https://www.linkedin.com/in/airiladrianaa)
-* **GitHub:**[(airiladrianaa)](https://github.com/airiladrianaa))
+* **GitHub:**[(airiladrianaa)](https://github.com/airiladrianaa)
