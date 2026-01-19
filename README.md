@@ -7,7 +7,7 @@ I am a first-year Bachelor of Computer Science student at Universiti Teknologi M
   * Bachelor of Computer Science (Computer Network & Security) with Honours
 
 **Kolej MARA Kuala Nerang (KMKN)**
-  * Foundation in Engineering
+  * Foundation in Engineering & Technology (UTM)
 
 **SMK Dato' Hj. Mohd Redza**
   * Science Stream
