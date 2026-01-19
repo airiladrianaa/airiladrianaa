@@ -1,4 +1,3 @@
-<img src="student id.jpg" width="150" height="150">
 # Hi, I'm Nik Dini Airil Adrianaa binti Nik Zainudin !
 ### Year 1 | Bachelor of Computer Science (Computer Network & Security) with Honours
 I am a first-year Bachelor of Computer Science student at Universiti Teknologi Malaysia (UTM) from Section 05.
